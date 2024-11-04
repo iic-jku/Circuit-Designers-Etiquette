@@ -1,4 +1,4 @@
-# Circuit Designer's Etiquette
+# Circuit Designer's Etiquette {#sec-designers-etiquette}
 
 **Harald Pretl, Institute for Integrated Circuits (IIC), Johannes Kepler University, Linz**
 
